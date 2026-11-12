@@ -1,0 +1,2 @@
+# Personal-Project-A-Automation-of-Accounting-System-in-Debate-Club
+An accounting automation system for a club, built with Google Sheets, Forms, Apps Script, and Gmail. Automates participant registration, fee calculation, billing, and payment reminders, streamlining routine work while improving accuracy and maintainability. 大学サークルの会計業務を自動化するシステム。Google Sheets、Forms、Apps Script、Gmailを連携し、参加登録・参加費計算・請求・入金催促を効率化。
